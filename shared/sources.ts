@@ -23,6 +23,17 @@ export const originSources = {
       },
     },
   },
+  "linux do": {
+    name: "linux do",
+    color: "Violet",
+    home: "https://linux.do/",
+    sub: {
+      share: {
+        title: "最新热帖",
+        column: "tech",
+      },
+    },
+  },
   "zhihu": {
     name: "知乎",
     type: "hottest",
